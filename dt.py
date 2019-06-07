@@ -1,4 +1,4 @@
-from itertools import combinatiions
+from itertools import combinations
 num,n=map(int,input().split())
 x=len(str(num))
 l=list(combinations(str(num),x-num))
