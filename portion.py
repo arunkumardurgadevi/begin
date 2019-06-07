@@ -4,4 +4,4 @@ if num==224:
 elif num%(x+z)==0:
   print("YES")
 else:
-print("NO")
+  print("NO")
